@@ -1,0 +1,1 @@
+import{e as t}from"./carrito.DlE3YJjI.js";import{$ as e}from"./ui.CF7X1jWB.js";document.addEventListener("click",a=>{const r=a.target.closest("[data-agregar-rapido]");if(r?.dataset.agregarRapido){a.preventDefault(),t(JSON.parse(r.dataset.agregarRapido));return}a.target.closest("[data-abrir-buscador]")&&e.set(!0)});

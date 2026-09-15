@@ -1,0 +1,3 @@
+# Propuesta de tienda para Kocobelo (demo). No indexar: la tienda real es kocobelo.com.
+User-agent: *
+Disallow: /

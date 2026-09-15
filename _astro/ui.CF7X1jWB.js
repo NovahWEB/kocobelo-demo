@@ -1,0 +1,1 @@
+import{a}from"./index.D3QP99MQ.js";const s=a(!1);function i(e){if(typeof document>"u")return;const t=document.querySelector("[data-aviso]");t&&(t.textContent=e,t.classList.add("visible"),window.clearTimeout(Number(t.dataset.t||0)),t.dataset.t=String(window.setTimeout(()=>t.classList.remove("visible"),2600)))}export{s as $,i as a};
